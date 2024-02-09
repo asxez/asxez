@@ -14,16 +14,19 @@
 
 希望和大家一起多多交流，共同进步。
 
-### 🎁 languages
+### 🎁 languages and tools
 
 <div>
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python.svg" alt="">
-    <img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/c%20language%20(1).svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/JavaScript.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/html.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/CSS3.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/mongodb.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Pycharm.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Clion.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/vscode.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/VMware.svg" alt="">
 </div>
 
 ### 🔥 GitHub Stats
