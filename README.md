@@ -17,7 +17,7 @@
 ### 🎁 languages and tools
 
 <div>
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python%20(1).svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/c%20language%20(1).svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/JavaScript.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/html.svg" alt="">
