@@ -14,7 +14,7 @@
 
 希望和大家一起多多交流，共同进步。
 
-### 🎁 languages and tools
+### 🎁 Languages and Tools
 
 <div>
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python%20(1).svg" alt="">
@@ -27,6 +27,8 @@
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Clion.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/vscode.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/VMware.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/git.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Nodejs.svg" alt="">
 </div>
 
 ### 🔥 GitHub Stats
