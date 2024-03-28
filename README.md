@@ -29,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/VMware.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/git.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Nodejs.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Docker.svg" alt="">
 </div>
 
 ### 🔥 GitHub Stats
