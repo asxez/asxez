@@ -2,6 +2,8 @@
     <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=720&lines=Code changes the world." alt="Typing SVG" /></a>
 </div>
 
+![](https://raw.githubusercontent.com/asxez/asxez/output/github-contribution-grid-snake.svg)
+
 ### 🙋About me
 
 你好，我是ASXE。
