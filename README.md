@@ -32,6 +32,8 @@
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/git.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Nodejs.svg" alt="">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Docker.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/mysql-database.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/DBeaver.svg" alt="">
 </div>
 
 ### 🔥 GitHub Stats
