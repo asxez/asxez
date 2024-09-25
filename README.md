@@ -19,21 +19,22 @@
 ### 🎁 Languages and Tools
 
 <div>
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python%20(1).svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/c%20language%20(1).svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/JavaScript.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/html.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/CSS3.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/mongodb.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Pycharm.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Clion.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/vscode.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/VMware.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/git.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Nodejs.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Docker.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/mysql-database.svg" alt="">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/DBeaver.svg" alt="">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python%20(1).svg" alt="python">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/c%20language%20(1).svg" alt="c">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/JavaScript.svg" alt="js">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/html.svg" alt="html">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/CSS3.svg" alt="css">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/mongodb.svg" alt="mongodb">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Pycharm.svg" alt="pycharm">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Clion.svg" alt="clion">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/vscode.svg" alt="vs">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/VMware.svg" alt="vmware">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/git.svg" alt="git">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Nodejs.svg" alt="node">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/Docker.svg" alt="docker">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/mysql-database.svg" alt="mysql">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/DBeaver.svg" alt="dbeaver">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/django.svg" alt="django">
 </div>
 
 ### 🔥 GitHub Stats
