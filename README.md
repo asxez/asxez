@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/Python%20(1).svg" alt="python">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/c%20language%20(1).svg" alt="c">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/JavaScript.svg" alt="js">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/rust.svg" alt="rust">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/rust.svg" alt="rust" width=64 height=64>
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/html.svg" alt="html">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/CSS3.svg" alt="css">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/mongodb.svg" alt="mongodb">
@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/mysql-database.svg" alt="mysql">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/DBeaver.svg" alt="dbeaver">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/django.svg" alt="django">
-    <img src="https://raw.githubusercontent.com/asxez/asxez/main/electron.svg" alt="electron">
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/electron.svg" alt="electron", width=64 height=64>
 </div>
 
 ### 🔥 GitHub Stats
