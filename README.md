@@ -42,4 +42,4 @@
 ### 🔥 GitHub Stats
 
 ![asxe's stats](https://github-readme-stats.vercel.app/api?username=asxez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asxez&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asxez&layout=compact&hide=html,css,scss)
