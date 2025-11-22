@@ -23,6 +23,7 @@
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/c%20language%20(1).svg" alt="c">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/JavaScript.svg" alt="js">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/rust.svg" alt="rust" width=64 height=64>
+    <img src="https://raw.githubusercontent.com/asxez/asxez/main/typescript.svg" alt="ts">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/html.svg" alt="html">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/CSS3.svg" alt="css">
     <img src="https://raw.githubusercontent.com/asxez/asxez/main/mongodb.svg" alt="mongodb">
